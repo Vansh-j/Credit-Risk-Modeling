@@ -1,4 +1,4 @@
-Credit Risk Modeling
+#Credit Risk Modeling
 📌 Project Overview
 Credit risk modeling is essential for financial institutions to evaluate the probability of a borrower defaulting on a loan. This project provides an interactive credit risk assessment system powered by machine learning. It evaluates borrowers' default risk, calculates credit scores, and assigns credit ratings. The system is built using Python and Streamlit, offering a user-friendly web-based interface.
 
